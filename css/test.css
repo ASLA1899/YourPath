@@ -837,7 +837,7 @@ a:focus {
   padding-left: 15px;
   bottom: 125px;
   position: absolute;
-  left: 6%;
+  left: 9%!important;
   margin-right: 2%;
   z-index: 5;
 
@@ -889,7 +889,7 @@ a:focus {
   bottom: 75px;
   position: absolute;
   left: 73%;
-  margin-right: 2%;
+  margin-right: 2%!important;
   z-index: 5;
 }
 
